@@ -25,4 +25,4 @@ cout << " la solucion del sistema es";
 cout << " x = " << x << " y = " << y << endl;
 }
 return 0;
-}
+} //PARA EL EJRCISIO DUPLICAR LOS VALORES DE F Y D SIEMPRE Y CUANDO LOS VALORES DE A Y C SEAN MENORES A 2
